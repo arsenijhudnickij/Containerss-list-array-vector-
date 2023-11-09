@@ -1,0 +1,12 @@
+#pragma once
+#include <list>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <array>
+#include <windows.h>
+#include <fstream>
+#include <stdlib.h>
+#include <conio.h>
+#include <iomanip>
+#include <Windows.h>
